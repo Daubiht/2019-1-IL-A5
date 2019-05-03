@@ -128,5 +128,5 @@ namespace Algo.Tests
                 Assert.That( _context.Movies[i].MovieId, Is.EqualTo( i + 1 ) );
 
         }
-        }
     }
+}
